@@ -8,5 +8,3 @@ yes
 ff
 ha
 ffh
-modifyed in dev
-
