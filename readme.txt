@@ -9,3 +9,4 @@ ff
 ha
 ffh
 fix bug
+creaing a new branch is quick
